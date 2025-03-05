@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog;
-my page
+title: Welcome to my page
+
 
 ---
 
